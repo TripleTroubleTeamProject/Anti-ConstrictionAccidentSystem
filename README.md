@@ -4,7 +4,7 @@
 
 ### TEAM MEMBER
 **{직책 : 이름}양식으로 작성하시면 됩니다. 쓰고 싶은데로 쓰셈 ㅋㅋ**
-Master : MinJae Hyun(aka Allen Jenix)
+Master : MinJae-Hyun(aka Allen Jenix)
 
 
 
