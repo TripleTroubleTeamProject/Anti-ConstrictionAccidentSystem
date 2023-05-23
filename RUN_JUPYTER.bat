@@ -1,3 +1,3 @@
-@ECHO
+@ECHO OFF
 
 jupyter notebook
